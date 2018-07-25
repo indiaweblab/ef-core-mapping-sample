@@ -14,3 +14,8 @@ https://app.pluralsight.com/library/courses/e-f-core-2-beyond-the-basics-mapping
 
 https://app.pluralsight.com/library/courses/entity-framework-enterprise-update/table-of-contents
 
+
+### See also:
+
+https://github.com/julielerman/PluralsightEFCore2GettingStarted
+
